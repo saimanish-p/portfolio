@@ -1,3 +1,7 @@
+# CV 
+
+<iframe src="assets/Saimanish Prabhakar CV.pdf" width="600" height="500" style="border: none;"></iframe>
+
 # Portfolio (Work in Progress)
 
 Hey there! I’m still working on making this page as detailed and polished as possible. 
