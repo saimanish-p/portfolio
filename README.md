@@ -1,6 +1,8 @@
 # CV 
 
-<iframe src="assets/Saimanish Prabhakar CV.pdf" width="600" height="1000" style="border: none;"></iframe>
+<iframe src="assets/Saimanish Prabhakar CV.pdf" width="600" height="800" style="border: none;"></iframe>
+
+<br><br>
 
 ---
 
