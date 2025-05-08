@@ -4,7 +4,7 @@
 
 
 
-# Technical Skills
+## Technical Skills
 
 - Please refer to 'On-going certifications' section for technical skills I am currently learning/developing. 
 - Note that conceptual/modelling list is not exhaustive as it does not include financial models.
