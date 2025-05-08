@@ -7,8 +7,7 @@
 # Technical Skills
 
 - Please refer to 'On-going certifications' section for technical skills I am currently learning/developing. 
-- Note that conceptual/modelling list is not exhaustive as it does not include financial models. 
-    - For more, refer to A.
+- Note that conceptual/modelling list is not exhaustive as it does not include financial models.
 
 ### Languages / Software
 - Python, STATA, EViews, LaTeX, CLI, Git, GitHub, Kpler, Refinitiv Eikon, S&P Global (Platts, Capital IQ), Power BI, Power Automate, Excel, Google Cloud (Basic)
