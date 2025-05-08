@@ -25,8 +25,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
     - Focal point of the paper is to uncover key drivers of AI adoption across UAE universities using survey data that is analysed using a combination of supervised/unsupervised ML models to gather predictive insights and identify patterns in stakeholder responses.
 
 <br><br>
----
-<br><br>
 ## Completed Projects
 
 [Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)
@@ -35,8 +33,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
 
 [Pairs Trading Simulator](https://pairs-trader-sim.streamlit.app/)
 
-<br><br>
----
 <br><br>
 ## On-going Projects
 - 'Debunking Theories'
@@ -50,8 +46,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
 
 And more... 
 
-<br><br>
----
 <br><br>
 ## On-going Certifications
 
@@ -122,8 +116,6 @@ And more...
 - Trading in Milliseconds: MFT Strategies and Setup
 
 <br><br>
----
-<br><br>
 ## Completed Certifications
 
 ### Skill Path (>20 hours)
@@ -165,14 +157,10 @@ And more...
 - [Code and Standards Certifications on the CFA Institute Code of Ethics (Total of 22)](https://drive.google.com/drive/folders/1pwN41Y0h77lnaONy9-Fc0PnqI3OaF3_C)
 
 <br><br>
----
-<br><br>
 ## CV 
 
 <iframe src="assets/Saimanish Prabhakar CV.pdf" width="600" height="850" style="border: none;"></iframe>
 
-<br><br>
----
 <br><br>
 
 ## Academic Recommendation Letters
