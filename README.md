@@ -1,5 +1,3 @@
-Last Updated: 09/05/2025
-
 # Aspiring Quantitative Analyst
 
 ## About Me
