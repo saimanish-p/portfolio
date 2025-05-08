@@ -1,3 +1,5 @@
+Last Updated: 09/05/2025
+
 # Aspiring Quantitative Analyst
 
 ## About Me
@@ -6,18 +8,18 @@
 
 # Technical Skills
 
-A. Please refer to 'On-going certifications' section for technical skills I am currently learning/developing. 
-B. Note that conceptual/modelling list is not exhaustive as it does not include financial models. 
+- Please refer to 'On-going certifications' section for technical skills I am currently learning/developing. 
+- Note that conceptual/modelling list is not exhaustive as it does not include financial models. 
     - For more, refer to A.
 
 ### Languages / Software
 - Python, STATA, EViews, LaTeX, CLI, Git, GitHub, Kpler, Refinitiv Eikon, S&P Global (Platts, Capital IQ), Power BI, Power Automate, Excel, Google Cloud (Basic)
-<br><br>
+
 ### Libraries / Frameworks
 - pandas, NumPy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, streamlit, plotly
-<br><br>
+
 ### Conceptual / Modelling 
-- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Linear, Logistic Regression, (more in progress...))
+- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Linear, Logistic Regression)
 
 ## Publications (Working Papers)
 - "Exploring Short and Long Run Causal Relationships between Oil Prices, Macroeconomic Factors, and Uncertainty Measures (Working Title)" 
