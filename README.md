@@ -1,5 +1,5 @@
 # Aspiring Quantitative Analyst
-<br><br>
+
 # Technical Skills
 
 A. Please refer to 'On-going certifications' section for technical skills I am currently learning/developing. 
@@ -13,9 +13,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
 ### Conceptual / Modelling 
 - Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Linear, Logistic Regression, (more in progress...))
 
-<br><br>
----
-<br><br>
 ## Publications (Working Papers)
 - "Exploring Short and Long Run Causal Relationships between Oil Prices, Macroeconomic Factors, and Uncertainty Measures (Working Title)" 
     - Co-Authoring a research paper with Dr. Athanasia Kalaitzi (Senior Lecturer Quantitative Finance and Economics at Middlesex University Dubai)
@@ -24,7 +21,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
     - Co-Authoring a research paper with Dr. Monita Baruah (Associate Professor - MSc Financial Data Science Program at the University of Birmingham Dubai)
     - Focal point of the paper is to uncover key drivers of AI adoption across UAE universities using survey data that is analysed using a combination of supervised/unsupervised ML models to gather predictive insights and identify patterns in stakeholder responses.
 
-<br><br>
 ## Completed Projects
 
 [Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)
@@ -33,7 +29,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
 
 [Pairs Trading Simulator](https://pairs-trader-sim.streamlit.app/)
 
-<br><br>
 ## On-going Projects
 - 'Debunking Theories'
     - A repository containing Jupyter notebooks that dissect a particular financial theory or mathematical construct by examining its notation/derivation, practical use-cases, limitations & implications, while also providing an alternative solution for consideration.  
@@ -46,7 +41,6 @@ B. Note that conceptual/modelling list is not exhaustive as it does not include 
 
 And more... 
 
-<br><br>
 ## On-going Certifications
 
 - Note that I am not pursuing all of these certifications at once. 
@@ -115,7 +109,6 @@ And more...
 - Trading Alphas: Mining, Optimisation, and System Design
 - Trading in Milliseconds: MFT Strategies and Setup
 
-<br><br>
 ## Completed Certifications
 
 ### Skill Path (>20 hours)
@@ -156,12 +149,9 @@ And more...
 - [Bank of America: Investment Banking Virtual Experience Program Participant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Bank%20of%20America/Hi8MJQE5T3MeTRWQR_Bank%20of%20America_ok6joc3aPXoRPwogq_1683632246957_completion_certificate.pdf)
 - [Code and Standards Certifications on the CFA Institute Code of Ethics (Total of 22)](https://drive.google.com/drive/folders/1pwN41Y0h77lnaONy9-Fc0PnqI3OaF3_C)
 
-<br><br>
 ## CV 
 
 <iframe src="assets/Saimanish Prabhakar CV.pdf" width="600" height="850" style="border: none;"></iframe>
-
-<br><br>
 
 ## Academic Recommendation Letters
 
@@ -169,4 +159,3 @@ And more...
 <br><br>
 <iframe src="assets/SP - Dissertation Supervisor and Emeritus Professor of Economics - Reference Letter.pdf" width="600" height="850" style="border: none;"></iframe>
 <br><br>
----
