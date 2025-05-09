@@ -2,15 +2,19 @@
 
 ## About Me
 
-MSc Investment Management graduate with distinction, combining strong foundations in econometrics and statistical modeling with proficiency in Python, STATA, pandas, NumPy, scikit-learn, SciPy, streamlit, etc. My work includes formal research on oil price dynamics and AI adoption in UAE higher education, alongside independent interactive projects in options pricing (Black-Scholes, Monte Carlo), strategy visualization (e.g., Bull Call Spread, Straddle). 
+MSc Investment Management graduate with distinction, combining strong foundations in econometrics and statistical modeling, with proficiency in Python, STATA, pandas, NumPy, scikit-learn, SciPy, streamlit, etc. My work includes ongoing formal research on oil price dynamics and AI adoption in UAE higher education, alongside independent interactive dashboard projects in options pricing (Black-Scholes, Monte Carlo) and strategy visualization (e.g., Bull Call Spread, Straddle) hosted on Streamlit.
 
-I am currently focused on advancing my machine learning skills and targeting the following graduate/trainee roles across all asset classes:
+Professionally, I have worked as a *Crude Oil Market Research Analyst*, analysing global supply-demand dynamics, and provided regular insights on pricing structures, refinery outages, trade dynamics, and their implications on regional markets. I also investigated shadow fleet activity across key geopolitical regions of interest. 
+
+I am currently focused on deepening my machine learning expertise and targeting graduate/trainee roles across the following verticals:
 
 - Quantitative Investing
 - Portfolio Analytics & Management
 - Risk Analytics
 - Systematic Trading
 - Macro Strategy
+
+Please scroll through the page — my CV and academic recommendation letters are available at the bottom.
 
 ## Technical Skills
 
