@@ -2,7 +2,15 @@
 
 ## About Me
 
+MSc Investment Management graduate with distinction, combining strong foundations in econometrics and statistical modeling with proficiency in Python, STATA, pandas, NumPy, scikit-learn, SciPy, streamlit, etc. My work includes formal research on oil price dynamics and AI adoption in UAE higher education, alongside independent interactive projects in options pricing (Black-Scholes, Monte Carlo), strategy visualization (e.g., Bull Call Spread, Straddle). 
 
+I am currently focused on advancing my machine learning skills and targeting the following graduate/trainee roles across all asset classes:
+
+- Quantitative Investing
+- Portfolio Analytics & Management
+- Risk Analytics
+- Systematic Trading
+- Macro Strategy
 
 ## Technical Skills
 
