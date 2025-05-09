@@ -41,10 +41,27 @@ Please scroll through the page — my CV and academic recommendation letters are
 ## Completed Projects
 
 [Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)
+- Developed a robust web application that allows users to analyze a wide range of options trading strategies, including Long Call, Short Call, Long Put, Short Put, Bull Call Spread, Bear Put Spread, and more.
+- Empowers users to easily input key parameters such as strike price, premium, and expiration prices. The application generates detailed net-payoff tables and dynamic graphs, aiding seasoned analysts and students alike in making informed decisions.
+- Utilised popular libraries such as numpy, pandas, matplotlib, and streamlit to create a user-friendly interface. This enhances strategy interpretation, providing valuable insights into payoffs and break-even points for various options strategies.
 
 [Options Pricing and Greeks Analysis](https://options-pricing-and-greeks.streamlit.app/)
+- Developed an options pricing tool using Black-Scholes and Monte Carlo methods, comparing options price sensitivity to volatility, time to expiration, and strike price, with visualisations of Monte Carlo price paths and distributions. 
+- Implemented Greek analysis for both methods, and created multi-dimensional sensitivity plots for deeper insights into option pricing dynamics.
 
 [Pairs Trading Simulator](https://pairs-trader-sim.streamlit.app/)
+- Built a rudimentary pairs trading sim for an aluminium and lead asset pair with customisable parameters like z-score threshold, lookback period, lot sizes, stop loss, and take profit, enabling flexible strategy testing. 
+
+A VAR Analysis of the Nominal Broad US Dollar Index (NBUSDI), Dow Jones Industrial Average (DJI), and S&P 500 (SPX)
+- Explored the impact of changes in the NBUSDI, DJI, and SPX on each other, aiming to understand the short-term interactions and causal dynamics among these key financial indicators.
+- Identified robust autocorrelation in NBUSDI, suggesting enduring shocks influencing the index, while DJI and SPX exhibited limited immediate influence on NBUSDI, emphasising their relative independence.
+- Granger causality tests revealed significant evidence that lagged variables collectively Granger-cause changes in NBUSDI, highlighting the importance of external factors and predictive relationships among financial variables.
+
+Assessing the impact of oil rents on UAE GDP: A multivariate time series regression analysis
+- A study exploring the impact of oil rents on the economic growth of the United Arab Emirates (UAE), focusing on the effectiveness of existing strategies.
+- Addressed the model's limitations, including non-stationarity and multicollinearity, and proposed solutions such as the inclusion of new variables like 
+merchandise imports to enhance model robustness and reliability.
+- Found that oil rents significantly influence the UAE's economic growth, with a notable contribution to GDP despite government strategies aimed at diversification.
 
 ## On-going Projects
 - 'Debunking Theories'
