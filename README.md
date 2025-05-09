@@ -2,7 +2,9 @@
 
 ## About Me
 
-MSc Investment Management graduate with distinction, combining strong foundations in econometrics and statistical modeling, with proficiency in multiple languages/software/frameworks (see next section). My work includes ongoing formal research on oil price dynamics and AI adoption in UAE higher education, alongside independent interactive dashboard projects in options pricing and strategy visualisation hosted on Streamlit.
+MSc Investment Management graduate with distinction, combining strong foundations in econometrics and statistical modeling, with proficiency in multiple languages/software/frameworks (see next section). 
+
+My work includes ongoing formal research on oil price dynamics and AI adoption in UAE higher education, alongside independent interactive dashboard projects in options pricing and strategy visualisation hosted on Streamlit.
 
 Professionally, I have worked as a *Crude Oil Market Research Analyst*, analysing global supply-demand dynamics, and provided regular insights on pricing structures, refinery outages, trade dynamics, and their implications on regional markets. I also investigated shadow fleet activity across key geopolitical regions of interest. 
 
