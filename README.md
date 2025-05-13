@@ -30,7 +30,7 @@ For more information, please scroll through the page — my CV and academic reco
 - pandas, NumPy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, streamlit, plotly
 
 ### Conceptual / Modelling 
-- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Linear, Logistic Regression)
+- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Linear Regression, Logistic Regression, K-Nearest Neighbors)
 
 ## Publications (Working Papers)
 - "Exploring Short and Long Run Causal Relationships between Oil Prices, Macroeconomic Factors, and Uncertainty Measures (Working Title)" 
