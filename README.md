@@ -80,8 +80,7 @@ And more...
 ## On-going Certifications
 
 - Note that I am not pursuing all of these certifications at once. 
-- I have a systematic learning plan where I attempt to complete one 'course' a day and make progress towards a skill/career path certifications while I balance my research commitments.
-- These are simply what is in the pipeline with regards to my upskilling journey.
+- I have a systematic learning plan where I attempt to complete short 'courses' frequently whilst making progress towards skill/career path certifications and balancing my research commitments.
 
 ### Career Path (50-150 hours -> with exams)
 - Machine Learning / AI Engineer
