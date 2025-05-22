@@ -10,11 +10,10 @@ Professionally, I have worked as a *Crude Oil Market Research Analyst*, analysin
 
 I am currently focused on deepening my machine learning expertise and targeting graduate/trainee roles across the following verticals:
 
-- Quantitative Investing
-- Portfolio Analytics & Management
-- Risk Analytics
-- Systematic Trading
-- Macro Strategy
+- Quantitative Analysis
+- Portfolio / Risk Analyst
+- Junior Trader / Trading Assistant
+- Macro Research / Strategy
 
 For more information, please scroll through the page — my CV and academic recommendation letters are available at the bottom.
 
