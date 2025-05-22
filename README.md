@@ -64,18 +64,6 @@ For more information, please scroll through the page — my CV and academic reco
 merchandise imports to enhance model robustness and reliability.
 - Found that oil rents significantly influence the UAE's economic growth, with a notable contribution to GDP despite government strategies aimed at diversification.
 
-## On-going Projects
-- 'Debunking Theories'
-    - A repository containing Jupyter notebooks that dissect a particular financial theory or mathematical construct by examining its notation/derivation, practical use-cases, limitations & implications, while also providing an alternative solution for consideration.  
-- 'Macro Dashboard'
-    - An interactive dashboard that applies econometric techniques to analyse the interdependencies between key indicators. 
-    - Insights are dynamically generated based on predefined template-driven interpretations aligned to detected patterns. 
-    - Threshold conditions are systematically evaluated to determine breaches, ensuring that the appropriate insights are selected and delivered in response to significant economic shifts. 
-- 'The Portfolio Trifecta'
-    - An interactive dashboard allowing you to construct, analyse, and optimise your equity investments with great transaction, performance, risk, attribution, and simulation insights.
-
-And more... 
-
 ## On-going Certifications
 
 - Note that I am not pursuing all of these certifications at once. 
