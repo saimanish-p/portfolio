@@ -41,7 +41,7 @@ For more information, please scroll through the page — my CV and academic reco
 
 ## Completed Projects
 
-Click the project title hyperlink to visit the project - where you can interact with the dashboard
+Click the project title to visit the interactive dashboard
 
 *[Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)*
 - Developed a robust web application that allows users to analyze a wide range of options trading strategies, including Long Call, Short Call, Long Put, Short Put, Bull Call Spread, Bear Put Spread, and more.
