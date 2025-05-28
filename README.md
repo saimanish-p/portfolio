@@ -148,7 +148,7 @@ merchandise imports to enhance model robustness and reliability.
 - [Finance Accelerator Simulation Participant in Partnership with Morgan Stanley](https://drive.google.com/file/d/12V9umlueBUbdRMxqRhGapCuRaopLbh42/view)
 - [Getting Started with Refinitiv Eikon](https://drive.google.com/file/d/1LJKijKQon6I1_wRfWWCVWzzTdq7dHhxB/view)
 
-## Algorithm Trading Courses (1-20 hours)
+### Algorithm Trading Courses (1-20 hours)
 - [Python for Trading Basic](https://drive.google.com/file/d/1HGkQ0NN8tkZgIyPky6bokErfuLlWffqd/view)
 - [Getting Started with Algorithmic Trading](https://drive.google.com/file/d/1bAtMiv2gpkdE3_iB2iLAGgwkdgMNbRoy/view)
 - [Statistical Arbitrage Trading](https://drive.google.com/file/d/1ydhX7VPzxT0s8OyRIvTvJNpSXloqcpxK/view)
@@ -160,7 +160,7 @@ merchandise imports to enhance model robustness and reliability.
 - [Value Strategy in Forex](https://drive.google.com/file/d/1xXjWes0XWV_vgCCZRiEe3o8efUY5iUS7/view)
 - [Forex Trading using Python: Basic](https://drive.google.com/file/d/103wivM3Fgj1CJkyBOivTgKyLTmYGN6gz/view)
 
-## Finance/Industry Experience Courses (1-10 hours)
+### Finance/Industry Experience Courses (1-10 hours)
 - [JP Morgan: Investment Banking Virtual Experience Program Participant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_JPMorgan%20Chase_ok6joc3aPXoRPwogq_1651859836209_completion_certificate.pdf)
 - [JPMorgan Chase: Commercial Banking Virtual Experience Program Participant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/LBJRY9AanBmxGpPTc_JPMorgan%20Chase_ok6joc3aPXoRPwogq_1651768473964_completion_certificate.pdf)
 - [ACCA: Sustainability in Banking Virtual Experience Program Participant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ACCA%20and%20CIMB%20Group/uY9Mkm9Emf8frDPeb_ACCA%20and%20CIMB%20Group_ok6joc3aPXoRPwogq_1662979263310_completion_certificate.pdf)
