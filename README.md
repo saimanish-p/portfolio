@@ -103,7 +103,6 @@ merchandise imports to enhance model robustness and reliability.
 - Learn Image Classification with PyTorch
 
 ### Algorithm Trading Courses (1-20 hours)
-- Python for Trading
 - Introduction to Machine Learning for Trading
 - Trading with Machine Learning: Classification and SVM
 - Options Trading Strategies in Python: Advanced
@@ -150,6 +149,7 @@ merchandise imports to enhance model robustness and reliability.
 
 ### Algorithm Trading Courses (1-20 hours)
 - [Python for Trading Basic](https://drive.google.com/file/d/1HGkQ0NN8tkZgIyPky6bokErfuLlWffqd/view)
+- [Python for Trading](https://drive.google.com/file/d/1nrRoRQseUkMdGn4EHvAAHzSFziYUuTCe/view?usp=sharing)
 - [Getting Started with Algorithmic Trading](https://drive.google.com/file/d/1bAtMiv2gpkdE3_iB2iLAGgwkdgMNbRoy/view)
 - [Statistical Arbitrage Trading](https://drive.google.com/file/d/1ydhX7VPzxT0s8OyRIvTvJNpSXloqcpxK/view)
 - [Getting Market Data: Stocks, Crypto, News & Fundamentals](https://drive.google.com/file/d/1Bim3k1hDxgzojF7WKaQSl7CAg1JC5KGX/view)
