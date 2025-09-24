@@ -2,18 +2,7 @@
 
 ## About Me
 
-MSc Investment Management graduate with distinction, combining strong foundations in econometrics and statistical modeling, with proficiency in multiple languages/software/frameworks (see next section). 
-
-My work includes ongoing formal research on oil price dynamics and factors driving AI adoption in UAE higher education, alongside independent interactive dashboard projects in options pricing and strategy visualisation hosted on Streamlit.
-
-Professionally, I have worked as a *Crude Oil Market Research Analyst*, analysing global supply-demand dynamics, and provided regular insights on pricing structures, refinery outages, trade dynamics, and their implications on regional markets. I also investigated shadow fleet activity across key geopolitical regions of interest. 
-
-I am currently focused on deepening my machine learning expertise and targeting graduate/trainee roles across the following verticals:
-
-- Quantitative Analysis
-- Portfolio / Risk Analyst
-- Junior Trader / Trading Assistant
-- Macro Research / Strategy
+(Work in Progress)
 
 For more information, please scroll through the page — my CV and academic recommendation letters are available at the bottom.
 
@@ -23,7 +12,7 @@ For more information, please scroll through the page — my CV and academic reco
 - Note that conceptual/modelling list is not exhaustive as it does not include financial models.
 
 ### Languages / Software
-- Python, STATA, EViews, LaTeX, CLI, Git, GitHub, Kpler, Refinitiv Eikon, S&P Global (Platts, Capital IQ), Power BI, Power Automate, Excel, Google Cloud (Basic)
+- Python, STATA, EViews, LaTeX, CLI, Git, GitHub, Kpler, Refinitiv Eikon, S&P Global (Platts, Capital IQ), Power BI, Power Automate, Excel, Google Cloud (Basic), Sierra Chart, MetaTrader5
 
 ### Libraries / Frameworks
 - pandas, NumPy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, streamlit, plotly
@@ -32,12 +21,8 @@ For more information, please scroll through the page — my CV and academic reco
 - Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Regression (Linear, Logistic), K-Nearest Neighbors (Classifier, Regressor))
 
 ## Publications (Working Papers)
-- "Exploring Short and Long Run Causal Relationships between Oil Prices, Macroeconomic Factors, and Uncertainty Measures (Working Title)" 
-    - Co-Authoring a research paper with Dr. Athanasia Kalaitzi (Senior Lecturer Quantitative Finance and Economics at Middlesex University Dubai)
-    - Focal point of the paper is investigating the transmission mechanisms uncertainty measures utilise to directly or indirectly affect oil price dynamics alongside other macroeconomic factors
-- "Redefining Learning: AI and the Future of EdTech Innovation (Working Title)"
-    - Co-Authoring a research paper with Dr. Monita Baruah (Associate Professor - MSc Financial Data Science Program at the University of Birmingham Dubai)
-    - Focal point of the paper is to uncover key drivers of AI adoption across UAE universities using survey data that is analysed using a combination of supervised/unsupervised ML models to gather predictive insights and identify patterns in stakeholder responses.
+
+(Work in Progress)
 
 ## Completed Projects
 
