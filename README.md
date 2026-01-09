@@ -22,11 +22,9 @@ For more information, please scroll through the page — my CV and academic reco
 
 ## Publications (Working Papers)
 
-(Work in Progress)
+"The Causality between Oil price, Financial Market uncertainty and Economic Policy Uncertainty in the United States" | Co-Authored by Saimanish Prabhakar and Dr. Athanasia Kalaitzi | 2025-2026 | Currently Under Review 
 
 ## Completed Projects
-
-(Add Risk and Execution Engine proj)
 
 Click the project title to visit the interactive dashboard
 
@@ -44,8 +42,7 @@ Click the project title to visit the interactive dashboard
 
 ## On-going Projects
 
-- Macro Dashboard
-- Debunking Theories
+(Work in Progress)
 
 ## On-going Certifications
 
