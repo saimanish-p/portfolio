@@ -26,6 +26,8 @@ For more information, please scroll through the page — my CV and academic reco
 
 ## Completed Projects
 
+(Add Risk and Execution Engine proj)
+
 Click the project title to visit the interactive dashboard
 
 *[Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)*
@@ -40,16 +42,10 @@ Click the project title to visit the interactive dashboard
 *[Pairs Trading Simulator](https://pairs-trader-sim.streamlit.app/)*
 - Built a rudimentary pairs trading sim for an aluminium and lead asset pair with customisable parameters like z-score threshold, lookback period, lot sizes, stop loss, and take profit, enabling flexible strategy testing. 
 
-*A VAR Analysis of the Nominal Broad US Dollar Index (NBUSDI), Dow Jones Industrial Average (DJI), and S&P 500 (SPX)*
-- Explored the impact of changes in the NBUSDI, DJI, and SPX on each other, aiming to understand the short-term interactions and causal dynamics among these key financial indicators.
-- Identified robust autocorrelation in NBUSDI, suggesting enduring shocks influencing the index, while DJI and SPX exhibited limited immediate influence on NBUSDI, emphasising their relative independence.
-- Granger causality tests revealed significant evidence that lagged variables collectively Granger-cause changes in NBUSDI, highlighting the importance of external factors and predictive relationships among financial variables.
+## On-going Projects
 
-*Assessing the impact of oil rents on UAE GDP: A multivariate time series regression analysis*
-- A study exploring the impact of oil rents on the economic growth of the United Arab Emirates (UAE), focusing on the effectiveness of existing strategies.
-- Addressed the model's limitations, including non-stationarity and multicollinearity, and proposed solutions such as the inclusion of new variables like 
-merchandise imports to enhance model robustness and reliability.
-- Found that oil rents significantly influence the UAE's economic growth, with a notable contribution to GDP despite government strategies aimed at diversification.
+- Macro Dashboard
+- Debunking Theories
 
 ## On-going Certifications
 
@@ -73,7 +69,7 @@ merchandise imports to enhance model robustness and reliability.
 - Intermediate Machine Learning
 - Build Deep Learning Models with TensorFlow
 
-### Courses (1-20 hours)
+### Technical Courses (1-20 hours)
 - Learn SQL
 - Learn MongoDB
 - kdb+/q Developer – Level 1
@@ -124,7 +120,7 @@ merchandise imports to enhance model robustness and reliability.
 - [Fundamental Math for Data Science](https://drive.google.com/file/d/1MfY2KwY0F5Lj3GjK3dcDn9CP70pcsw70/view)
 - [Master Statistics with Python](https://drive.google.com/file/d/1wKf1fwMLKhK_0MaekNK7KMYLPef51jkL/view)
 
-### Courses (1-20 hours)
+### Technical Courses (1-20 hours)
 - [Learn Python 3](https://drive.google.com/file/d/1IwrqFQyFTT6a-eojb3t7Vxu-NPhmudt6/view)
 - [Learn the Command Line](https://drive.google.com/file/d/1VCr3wLQK3TERuaD0F9AsovV_Slx-8h0-/view)
 - [Learn Git and GitHub](https://drive.google.com/file/d/1AG-0fvDE_Kiw5KYfnPOLuD-uzvXW75uW/view)
