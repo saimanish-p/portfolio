@@ -46,9 +46,6 @@ Click the project title to visit the interactive dashboard
 
 ## On-going Certifications
 
-- Note that I am not pursuing all of these certifications at once. 
-- I have a systematic learning plan where I attempt to complete short 'courses' frequently whilst making progress towards skill/career path certifications and balancing my research commitments.
-
 ### Career Path (50-150 hours -> with exams)
 - Machine Learning / AI Engineer
 - Data Scientist: Machine Learning Specialist
