@@ -36,9 +36,6 @@ Click the project title to visit the interactive dashboard
 - Developed an options pricing tool using Black-Scholes and Monte Carlo methods, comparing options price sensitivity to volatility, time to expiration, and strike price, with visualisations of Monte Carlo price paths and distributions. 
 - Implemented Greek analysis for both methods, and created multi-dimensional sensitivity plots for deeper insights into option pricing dynamics.
 
-*[Pairs Trading Simulator](https://pairs-trader-sim.streamlit.app/)*
-- Built a rudimentary pairs trading sim for an aluminium and lead asset pair with customisable parameters like z-score threshold, lookback period, lot sizes, stop loss, and take profit, enabling flexible strategy testing. 
-
 ## On-going Projects
 
 (Work in Progress)
