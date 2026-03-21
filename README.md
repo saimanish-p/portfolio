@@ -78,7 +78,6 @@ Click the project title to visit the interactive dashboard
 - Trading with Machine Learning: Classification and SVM
 - Options Trading Strategies in Python: Advanced
 - Trading with Machine Learning: Regression
-- Python for Machine Learning in Finance
 - Mean Reversion Strategies in Python
 - Backtesting Trading Strategies
 - Event Driven Trading Strategies
