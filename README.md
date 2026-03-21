@@ -119,6 +119,7 @@ Click the project title to visit the interactive dashboard
 - [Getting Started with Refinitiv Eikon](https://drive.google.com/file/d/1LJKijKQon6I1_wRfWWCVWzzTdq7dHhxB/view)
 
 ### Algorithm Trading Courses (1-20 hours)
+- [Python for Machine Learning in Finance](https://drive.google.com/file/d/1wlQaQelGLgg9K4arVGU56R3tApLfsn-G/view?usp=sharing)
 - [Python for Trading Basic](https://drive.google.com/file/d/1HGkQ0NN8tkZgIyPky6bokErfuLlWffqd/view)
 - [Python for Trading](https://drive.google.com/file/d/1nrRoRQseUkMdGn4EHvAAHzSFziYUuTCe/view?usp=sharing)
 - [Getting Started with Algorithmic Trading](https://drive.google.com/file/d/1bAtMiv2gpkdE3_iB2iLAGgwkdgMNbRoy/view)
