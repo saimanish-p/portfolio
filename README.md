@@ -77,7 +77,6 @@ Click the project title to visit the interactive dashboard
 - Introduction to Machine Learning for Trading
 - Trading with Machine Learning: Classification and SVM
 - Options Trading Strategies in Python: Advanced
-- Trading with Machine Learning: Regression
 - Mean Reversion Strategies in Python
 - Backtesting Trading Strategies
 - Event Driven Trading Strategies
@@ -118,6 +117,7 @@ Click the project title to visit the interactive dashboard
 - [Getting Started with Refinitiv Eikon](https://drive.google.com/file/d/1LJKijKQon6I1_wRfWWCVWzzTdq7dHhxB/view)
 
 ### Algorithm Trading Courses (1-20 hours)
+- [Trading with Machine Learning: Regression](https://drive.google.com/file/d/1d1u7Tzcb7qI2k3sObXuFd8UIWwwcOgTV/view?usp=sharing)
 - [Python for Machine Learning in Finance](https://drive.google.com/file/d/1wlQaQelGLgg9K4arVGU56R3tApLfsn-G/view?usp=sharing)
 - [Python for Trading Basic](https://drive.google.com/file/d/1HGkQ0NN8tkZgIyPky6bokErfuLlWffqd/view)
 - [Python for Trading](https://drive.google.com/file/d/1nrRoRQseUkMdGn4EHvAAHzSFziYUuTCe/view?usp=sharing)
