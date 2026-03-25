@@ -17,7 +17,7 @@ For more information, please scroll through the page — my CV and academic reco
 - pandas, NumPy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, streamlit, plotly
 
 ### Conceptual / Modelling 
-- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Regression (Linear, Logistic), K-Nearest Neighbors (Classifier, Regressor))
+- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Regression (Linear, Logistic), K-Nearest Neighbors (Classifier, Regressor)), Support Vector Classifier
 
 ## Publications (Working Papers)
 
