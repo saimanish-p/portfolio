@@ -21,7 +21,7 @@ For more information, please scroll through the page — my CV and academic reco
 
 ## Publications (Working Papers)
 
-"The Causality between Oil price, Financial Market uncertainty and Economic Policy Uncertainty in the United States" | Co-Authored by Saimanish Prabhakar and Dr. Athanasia Kalaitzi | 2025-2026 | Currently Under Review 
+  "The Causality between Oil price, Financial Market uncertainty and Economic Policy Uncertainty in the United States" | Co-Authored by Saimanish Prabhakar and Dr. Athanasia Kalaitzi | 2025-2026 | Accepted for Publication, Journal Forthcoming 
 
 ## Completed Projects
 
