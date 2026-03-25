@@ -74,7 +74,6 @@ Click the project title to visit the interactive dashboard
 - Learn Image Classification with PyTorch
 
 ### Algorithm Trading Courses (1-20 hours)
-- Introduction to Machine Learning for Trading
 - Options Trading Strategies in Python: Advanced
 - Mean Reversion Strategies in Python
 - Backtesting Trading Strategies
@@ -116,6 +115,7 @@ Click the project title to visit the interactive dashboard
 - [Getting Started with Refinitiv Eikon](https://drive.google.com/file/d/1LJKijKQon6I1_wRfWWCVWzzTdq7dHhxB/view)
 
 ### Algorithm Trading Courses (1-20 hours)
+- [Introduction to Machine Learning for Trading](https://drive.google.com/file/d/1W1lw6P2NTGFzoXSfgJ7PLH88N5HxTxyl/view?usp=sharing)
 - [Trading with Machine Learning: Classification and SVM](https://drive.google.com/file/d/15busdUigDdl4pOPKI4ciwHLOcjI5AS-q/view?usp=sharing)
 - [Trading with Machine Learning: Regression](https://drive.google.com/file/d/1d1u7Tzcb7qI2k3sObXuFd8UIWwwcOgTV/view?usp=sharing)
 - [Python for Machine Learning in Finance](https://drive.google.com/file/d/1wlQaQelGLgg9K4arVGU56R3tApLfsn-G/view?usp=sharing)
