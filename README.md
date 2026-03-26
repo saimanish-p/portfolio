@@ -2,43 +2,73 @@
 
 ## About Me
 
-(Work in Progress)
+My work sits at the intersection of financial systems engineering, applied econometrics, and discretionary trading. On the systems side, I design and build proprietary software infrastructure in C++ (ACSIL) and Python — including a multi-component execution and risk-control architecture that bridges two trading platforms, enforces compliance rules across sessions and restarts, and provides real-time pre-trade validation. This work is informed by active discretionary trading in US Index Futures using order-flow and market-structure analysis, where the infrastructure I build is also what I trade through.
 
-For more information, please scroll through the page — my CV and academic recommendation letters are available at the bottom.
+On the research side, I am co-authoring empirical work on the causal dynamics between oil prices and macroeconomic uncertainty measures, using advanced econometric frameworks including ARDL bounds testing, VAR-based Granger causality, and long-run augmented VAR. My co-authored paper on oil price dynamics and uncertainty measures has been accepted for publication in a Scopus-indexed peer-reviewed journal named International Journal of Energy Economics and Policy (IJEEP) and was presented as a Strong Accept at the ERPBSS 2026 international conference.
+
+Prior to this, I worked as a Crude Oil Market Research Analyst at Vici Energy in Dubai, covering crude and product flows across the Middle East, China, and Latin America — producing pricing reports, sanctions monitoring briefs, and benchmarking analysis for senior management.
+
+My CV, completed projects, academic recommendation letters, and full certifications list are available below.
 
 ## Technical Skills
 
 - Please refer to 'On-going certifications' section for technical skills I am currently learning/developing. 
 
-### Languages / Software
-- Python, STATA, EViews, LaTeX, CLI, Git, GitHub, Kpler, Refinitiv Eikon, S&P Global (Platts, Capital IQ), Power BI, Power Automate, Excel, Google Cloud (Basic), Sierra Chart, MetaTrader5
+### Languages & Development Tools
 
-### Libraries / Frameworks
-- pandas, NumPy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, streamlit, plotly
+- Python, C++ (ACSIL), Git, GitHub, CLI, LaTeX, STATA, EViews, Excel, Power BI
 
-### Conceptual / Modelling 
-- Data Pre-processing, EDA, Feature Engineering, Probability Distributions (Normal, Binomial, Poisson – PMF/PDF/CDF), Statistical Validation (t-tests 1- & 2-sided, chi-square, ANOVA, Tukey HSD, binomial tests), Time Series Modeling (ARIMA, VAR, VECM, GARCH), Econometric Causality (Cointegration, Granger causality, Impulse Response, FEVD), Machine Learning (Regression (Linear, Logistic), K-Nearest Neighbors (Classifier, Regressor)), Support Vector Classifier
+### Platforms & Software
 
-## Publications (Working Papers)
+- Sierra Chart (ACSIL study development), MetaTrader 5 (MT5), Streamlit, Refinitiv Eikon (LSEG), S&P Global (Platts, Capital IQ), Kpler
 
-  "The Causality between Oil price, Financial Market uncertainty and Economic Policy Uncertainty in the United States" | Co-Authored by Saimanish Prabhakar and Dr. Athanasia Kalaitzi | 2025-2026 | Accepted for Publication, Journal Forthcoming 
+### Libraries & Frameworks
+
+- pandas, NumPy, matplotlib, plotly, scipy, statsmodels, scikit-learn, streamlit, seaborn, OpenPyXL, Selenium
+
+### Econometrics & Quantitative Modelling
+
+- Time Series Modelling (VAR, VECM, ARDL, ARIMA, GARCH), Cointegration & Bounds Testing (ARDL bounds test)
+- Causality Analysis (Toda-Yamamoto, VAR-based Granger causality, Impulse Response, FEVD), Unit Root Testing (ADF, Phillips-Perron, KPSS, Zivot-Andrews structural break), Stability Diagnostics (CUSUM) - Statistical Validation (t-tests, chi-square, ANOVA, Tukey HSD), Probability Distributions (Normal, Binomial, Poisson), Data Pre-processing, EDA, Feature Engineering
+
+### Machine Learning
+
+- Supervised: Linear & Logistic Regression, K-Nearest Neighbours, SVM, Decision Trees, Random Forest
+- Unsupervised: K-Means Clustering
+- Applied: ML for Trading (Classification, Regression, Mean Reversion, Event-Driven Strategies)
+  
+### Trading & Market Structure
+
+- Auction Market Theory (AMT), Market Profile / TPO Composites, Volume Profile (HVN, LVN, POC, Value Area)
+- Order Flow Analysis (Cumulative Delta, Footprint Charts, DOM), VWAP
+- Systems Design for Prop-Firm Compliance (risk enforcement, execution gating, state machines)
+  
+## Publications
+
+The Causality between Oil Price, Policy & Financial Markets Uncertainty in the United States | Saimanish Prabhakar & Dr. Athanasia Kalaitzi | 
+International Journal of Energy Economics and Policy (IJEEP) | Accepted for publication | SJR - Q2 / ABDC - B | 2025–2026
+
+- Examines the causal dynamics between WTI oil prices and uncertainty measures — economic policy uncertainty (EPU) and financial market uncertainty (VIX) — across supply, demand, inventory, and exchange rate channels using ARDL bounds testing, Toda-Yamamoto causality, and a full unit root battery (ADF, PP, KPSS, Zivot-Andrews) over a monthly sample spanning February 1990 to September 2024.
+- Identifies recursive transmission loops where sustained demand-side shocks induce long-run supply stress, impacting oil prices via economic policy uncertainty as both a conduit and recipient of market dynamics — with implications for hedging strategy and policy design.
+- Conference Presentation: Presented as 'Strong Accept' at the Eighth International Conference on Emerging Research Paradigms in Business and Social Sciences (ERPBSS 2026) under the 'Geopolitics, Trade, and Economics' track.
 
 ## Completed Projects
 
-Click the project title to visit the interactive dashboard
+Click the project title to visit the interactive dashboard where available.
 
-*[Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)*
-- Developed a robust web application that allows users to analyze a wide range of options trading strategies, including Long Call, Short Call, Long Put, Short Put, Bull Call Spread, Bear Put Spread, and more.
-- Empowers users to easily input key parameters such as strike price, premium, and expiration prices. The application generates detailed net-payoff tables and dynamic graphs, aiding seasoned analysts and students alike in making informed decisions.
-- Utilised popular libraries such as numpy, pandas, matplotlib, and streamlit to create a user-friendly interface. This enhances strategy interpretation, providing valuable insights into payoffs and break-even points for various options strategies.
+Proprietary Trading Risk & Execution Engines | Technologies: C++ (ACSIL), Python (Streamlit) | Jun 2025 – Present
 
-*[Options Pricing and Greeks Analysis](https://options-pricing-and-greeks.streamlit.app/)*
-- Developed an options pricing tool using Black-Scholes and Monte Carlo methods, comparing options price sensitivity to volatility, time to expiration, and strike price, with visualisations of Monte Carlo price paths and distributions. 
-- Implemented Greek analysis for both methods, and created multi-dimensional sensitivity plots for deeper insights into option pricing dynamics.
+- Engineered a C++-based execution engine that translates analysis decisions into compliant order execution across two platforms, enforcing position-aware order semantics, dynamic unit sizing, and a state-gated arm-fire workflow — operating as a stateless enforcer that publishes trade events to disk and defers all account-level risk decisions to an external authority.
+- Built a Python risk dashboard that automates cross-platform exposure translation, validates trades against a multi-tiered drawdown defence system, and writes sizing outputs consumed by the execution engine as an IPC bridge; paired with a standalone governor daemon that reconstructs account risk state from the execution engine's trade-event stream on every cycle, computes cooldown and hard-lock decisions, and publishes verdicts atomically to disk — creating a crash-resilient, restart-safe enforcement layer that neither the execution engine nor the dashboard can bypass.
 
-## On-going Projects
+*[Options Pricing and Greeks Analysis](https://options-pricing-and-greeks.streamlit.app/)* | Libraries: numpy, pandas, matplotlib, streamlit, plotly, scipy | Jan – Feb 2025
 
-(Work in Progress)
+- Developed an options pricing tool using Black-Scholes and Monte Carlo methods, comparing options price sensitivity to volatility, time to expiration, and strike price, with visualisations of Monte Carlo price paths and distributions.
+- Implemented Greek analysis for both methods and created multi-dimensional sensitivity plots for deeper insights into option pricing dynamics.
+
+*[Options Strategy Payoff Calculator](https://options-strategies-payoff-calculator.streamlit.app/)* | Libraries: numpy, pandas, matplotlib, streamlit | Apr – May 2024
+
+- Engineered an interactive options strategy profitability calculator enabling analysis of strategies including Strap, Bull Call Spread, Long Butterfly, and more, with dynamic visualisation of net-payoff tables and break-even points for risk-reward assessment.
 
 ## On-going Certifications
 
