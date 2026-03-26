@@ -69,6 +69,18 @@ Proprietary Trading Risk & Execution Engines | Technologies: C++ (ACSIL), Python
 
 - Engineered an interactive options strategy profitability calculator enabling analysis of strategies including Strap, Bull Call Spread, Long Butterfly, and more, with dynamic visualisation of net-payoff tables and break-even points for risk-reward assessment.
 
+## Books 
+
+Books read in 2026 so far — the intellectual neighbourhoods I tend to wander through when not building systems or running models.
+
+- Mind Over Markets — James Dalton, Robert Dalton, Eric Jones
+- Markets and Momentum — James Dalton, Eric Jones, Robert Dalton
+- Thinking in Bets — Annie Duke
+- Fooled by Randomness — Nassim Nicholas Taleb
+- Skin in the Game — Nassim Nicholas Taleb
+- Alchemy — Rory Sutherland
+- Meditations - Marcus Aurellius (Gregory Hays translation)
+
 ## On-going Certifications
 
 ### Career Path (50-150 hours -> with exams)
