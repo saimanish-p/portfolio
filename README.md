@@ -46,7 +46,7 @@ My CV, completed projects, academic recommendation letters, and full certificati
 ## Publications
 
 The Causality between Oil Price, Policy & Financial Markets Uncertainty in the United States | Saimanish Prabhakar & Dr. Athanasia Kalaitzi
-International Journal of Energy Economics and Policy (IJEEP) | Accepted for publication | SJR - Q2 / ABDC - B | 2025–2026
+International Journal of Energy Economics and Policy (IJEEP) / Accepted for publication / SJR - Q2, ABDC - B / 2025–2026
 
 - Examines the causal dynamics between WTI oil prices and uncertainty measures — economic policy uncertainty (EPU) and financial market uncertainty (VIX) — across supply, demand, inventory, and exchange rate channels using ARDL bounds testing, Toda-Yamamoto causality, and a full unit root battery (ADF, PP, KPSS, Zivot-Andrews) over a monthly sample spanning February 1990 to September 2024.
 - Identifies recursive transmission loops where sustained demand-side shocks induce long-run supply stress, impacting oil prices via economic policy uncertainty as both a conduit and recipient of market dynamics — with implications for hedging strategy and policy design.
