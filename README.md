@@ -39,10 +39,9 @@ My CV, completed projects, academic recommendation letters, and full certificati
   
 ### Trading & Market Structure
 
-- Auction Market Theory (AMT), Market Profile / TPO Composites, Volume Profile (HVN, LVN, POC, Value Area)
-- Order Flow Analysis (Cumulative Delta, Footprint Charts, DOM), VWAP
-- Systems Design for Prop-Firm Compliance (risk enforcement, execution gating, state machines)
-  
+- Auction Market Theory (AMT), Market Profile / TPO Composites, Volume Profile (HVN, LVN, POC)
+- Order Flow Analysis (Cumulative Delta, Footprint Charts, DOM, VWAP) 
+    
 ## Publications
 
 **Title:** The Causality between Oil Price, Policy & Financial Markets Uncertainty in the United States | **Authors:** Saimanish Prabhakar & Dr. Athanasia Kalaitzi | **Journal:** International Journal of Energy Economics and Policy (IJEEP) :- SJR: Q2, ABDC: B | **Status:** Accepted for publication (2025–2026)
