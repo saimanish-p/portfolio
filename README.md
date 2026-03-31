@@ -4,7 +4,7 @@
 
 My work sits at the intersection of financial systems engineering, applied econometrics, and discretionary trading. On the systems side, I design and build proprietary software infrastructure in C++ (ACSIL) and Python — including a multi-component execution and risk-control architecture that bridges two trading platforms, enforces compliance rules across sessions and restarts, and provides real-time pre-trade validation. This work is informed by active discretionary trading in US Index Futures using order-flow and market-structure analysis, where the infrastructure I build is also what I trade through.
 
-On the research side, I have co-authored empirical work on the causal dynamics between oil prices and macroeconomic uncertainty measures, using advanced econometric frameworks including ARDL bounds testing, VAR-based Granger causality, and long-run augmented VAR. The paper has been published in the International Journal of Energy Economics and Policy (IJEEP) and was presented as a Strong Accept at the ERPBSS 2026 international conference proceeding at Middlesex University in Dubai.
+On the research side, I have co-authored empirical work on the causal dynamics between oil prices and macroeconomic uncertainty measures, using advanced econometric frameworks including ARDL bounds testing, VAR-based Granger causality, and long-run augmented VAR. The paper has been published in the International Journal of Energy Economics and Policy (IJEEP) and was presented as a Strong Accept at the ERPBSS 2026 international conference proceedings at Middlesex University in Dubai.
 
 Prior to this, I worked as a Crude Oil Market Research Analyst at Vici Energy in Dubai, covering crude and product flows across the Middle East, China, and Latin America — producing pricing reports, sanctions monitoring briefs, and benchmarking analysis for senior management.
 
@@ -48,7 +48,7 @@ My CV, completed projects, academic recommendation letters, and full certificati
 
 - Examines the causal dynamics between WTI oil prices and uncertainty measures — economic policy uncertainty (EPU) and financial market uncertainty (VIX) — across supply, demand, inventory, and exchange rate channels using ARDL bounds testing, Toda-Yamamoto causality, and a full unit root battery (ADF, PP, KPSS, Zivot-Andrews) over a monthly sample spanning February 1990 to September 2024.
 - Identifies recursive transmission loops where sustained demand-side shocks induce long-run supply stress, impacting oil prices via economic policy uncertainty as both a conduit and recipient of market dynamics with implications for policy design.
-- Conference Presentation: Presented as 'Strong Accept' at the Eighth International Conference on Emerging Research Paradigms in Business and Social Sciences (ERPBSS 2026) under the 'Geopolitics, Trade, and Economics' track.
+- Conference Proceedings: Presented as 'Strong Accept' at the Eighth International Conference on Emerging Research Paradigms in Business and Social Sciences (ERPBSS 2026) under the 'Geopolitics, Trade, and Economics' track.
 
 ## Completed Projects
 
