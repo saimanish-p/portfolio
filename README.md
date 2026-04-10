@@ -78,8 +78,8 @@ Books read in 2026 so far — the intellectual neighbourhoods I tend to wander t
 - Fooled by Randomness — Nassim Nicholas Taleb
 - Skin in the Game — Nassim Nicholas Taleb
 - Alchemy — Rory Sutherland
-- Meditations - Marcus Aurelius (Gregory Hays translation)
-- Clear Thinking - Shane Parrish
+- Meditations — Marcus Aurelius (Gregory Hays translation)
+- Clear Thinking — Shane Parrish
 
 ## On-going Certifications
 
